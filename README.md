@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Carrying out the GitHub "hello-world" exercise https://guides.github.com/activities/hello-world/
